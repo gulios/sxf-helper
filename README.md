@@ -1,6 +1,6 @@
 # SXF - Helper Component
 
-The Helper - usfull tools
+The Helper - usefull tools
 
 
 
